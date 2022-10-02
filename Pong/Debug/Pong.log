@@ -1,0 +1,9 @@
+﻿  GamePlay.cpp
+C:\Users\Dell Gaming\Desktop\Game Pong\Pong\GamePlay.cpp(4,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Dell Gaming\Desktop\Game Pong\Pong\GamePlay.cpp(75,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell Gaming\Desktop\Game Pong\Pong\GamePlay.cpp(98,36): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Pong.vcxproj -> C:\Users\Dell Gaming\Desktop\Game Pong\Debug\Pong.exe
